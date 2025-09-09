@@ -1,6 +1,6 @@
 # LucasSousa2602
 
 # Meu nome é Lucas, tenho 15 anos.
-## Sou estudante programação de fullStack
+## Sou estudante programação e fullStack
 
-<img src ="![alt text](image-2.png)"
+<img src="image-2.png">
